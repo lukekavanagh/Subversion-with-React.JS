@@ -36,5 +36,14 @@ namespace VotingApp.Controllers
 
             return View();
         }
+
+
+        public ActionResult Dashboard()
+        {
+            return View();
+        }
+
+
+
     }
 }

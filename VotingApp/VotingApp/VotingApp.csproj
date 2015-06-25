@@ -227,6 +227,8 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Scripts\jsx\form.jsx" />
     <Content Include="Scripts\jsx\piechart.jsx" />
+    <Content Include="Scripts\jsx\dashboard.jsx" />
+    <Content Include="Views\Home\Dashboard.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
